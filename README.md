@@ -8,4 +8,4 @@
 ...
 <br />
 <br />
-<img src="https://github.com/Yagoobz/ActiveDirectoryProjectPart2/assets/145611184/ce6c2d4a-630b-4de7-b54d-83a788025006" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/ActiveDirectoryProjectPart2/assets/145611184/3900edef-be71-4ccc-81eb-6a59610a8921" height="30%" width="70%" alt="Disk Sanitization Steps"/>
